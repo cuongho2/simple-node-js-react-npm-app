@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../shofi-admin"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../shopLofi"
+		}
+	],
+	"settings": {}
+}

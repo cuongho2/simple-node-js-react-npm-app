@@ -1,0 +1,1 @@
+require('./BetRecords.spec');
